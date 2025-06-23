@@ -1,1 +1,1 @@
-# HaLo Gateway Templates
+# HaLo Gateway Themes
